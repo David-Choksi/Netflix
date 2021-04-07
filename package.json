@@ -2,7 +2,7 @@
   "name": "netflix-clone",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://David-Choksi.github.io/NetflixClone/",
+  "homepage": "https://david-choksi.github.io/NetflixClone/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
